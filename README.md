@@ -1,3 +1,3 @@
-## Antrop
+# Antrop 
 
-# 🔳 gui for the terminal scripts 
+## 🔳 gui for the terminal scripts 
