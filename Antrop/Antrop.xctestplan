@@ -1,0 +1,37 @@
+{
+  "configurations" : [
+    {
+      "id" : "4C39AB04-8307-4624-BDB9-1503974DB6A2",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Antrop.xcodeproj",
+      "identifier" : "FA6999B92E0B70BE00CC69F7",
+      "name" : "Antrop"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Antrop.xcodeproj",
+        "identifier" : "FA6999C72E0B70BF00CC69F7",
+        "name" : "AntropTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Antrop.xcodeproj",
+        "identifier" : "FA6999D12E0B70BF00CC69F7",
+        "name" : "AntropUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
